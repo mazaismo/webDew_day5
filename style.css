@@ -1,0 +1,10 @@
+#bonfire-wraper img{
+    float: left;
+    width:  200px;
+
+}
+
+#firewood-wraper img{
+    float: right;
+    width: 100px;
+}
